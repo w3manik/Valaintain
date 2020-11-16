@@ -1,0 +1,385 @@
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+      .navbar-toggler i{
+        color: #a06a7d;
+    }
+
+    .navbar-toggler {
+        background-color: none;
+        border: none;
+    }
+
+    button:focus {
+        outline: none;
+    }
+
+    .navbar-nav {
+        background: #e6c4c4;
+    }
+    
+    .banner-text h3 {
+	font-size: 40px;
+    }
+    
+    .banner-text h1 {
+	font-size: 50px;
+    }
+    
+    .mk a {
+    padding: 6px 7px;
+    font-size: 14px;
+    }
+    
+    .banner-text p {
+	padding-bottom: 30px;
+    }
+    
+    
+     #history {
+        padding-top: 40px;
+    }
+
+    .gift-img img {
+        width: 280px;
+        height: 240px;
+    }
+    
+    #tickets {
+	padding-top: 30px;
+    }
+    
+    .mk {
+	margin-top: 0;
+	background:  #e6c4c4;
+    text-align: center;
+    }
+    
+    .navbar .navbar-nav .nav-link {
+	text-align: center;
+    }
+    
+    .newcastal{
+         display: none;
+    }
+        
+    .skd{
+        position: absolute;
+        top: -70px;
+        left: -150px;
+    }
+    
+    .mak-slider {
+	border: 10px solid #fff;
+    }
+    
+    #footer {
+	padding-top: 90px;
+    }
+    
+    .feedback-item p {
+	font-size: 12px;
+	padding-left: 0;
+    }
+    
+}
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .navbar-toggler i{
+        color: #a06a7d;
+    }
+
+    .navbar-toggler {
+        background-color: none;
+        border: none;
+    }
+
+    button:focus {
+        outline: none;
+    }
+
+    .navbar-nav {
+        background: #e6c4c4;
+    }
+
+    .mk a {
+        padding: 6px 7px;
+        font-size: 14px;
+    }
+
+    
+    .banner-text h3 {
+    font-size: 40px;
+    }
+        
+    .banner-text h1 {
+    font-size: 40px;
+    }
+        
+    .banner-text p {
+        font-size: 12px;
+        padding-bottom: 10px;
+    }
+
+    .banner-text a {
+        padding: 8px 6px;
+        font-size: 14px;
+    }
+
+    #history {
+        padding-top: 40px;
+    }
+
+    .gift-img img {
+        width: 280px;
+        height: 240px;
+    }
+    
+    .mk {
+	margin-top: 0;
+	background:  #e6c4c4;
+    text-align: center;
+    }
+    
+    .navbar .navbar-nav .nav-link {
+	text-align: center;
+    }
+    
+    
+    #gift {
+        padding-top: 30px;
+    }
+
+    .secound-gift a {
+        padding: 8px 8px;
+        font-size: 14px;
+    }
+
+    #tickets {
+        padding-top: 45px;
+        padding-bottom: 40px;
+    }
+
+    .shop-menu i {
+	padding: 6px 8px;
+	margin: 6px 5px;
+    }
+        
+    #shops .service-item a {
+	padding: 6px 6px;
+	border: none;
+	font-size: 14px;
+    }
+    
+    .con-overlay1 {
+	top: -45px;
+	left: 50px;
+    }
+        
+    .con-overlay2 {
+	top: -45px;
+	left: 25px;
+    }
+    
+    .con-overlay3 {
+	top: -65px;
+	left: 35px;
+    }
+    
+    .newcastal{
+           display: none;
+    }
+        
+   .skd {
+	top: -55px;
+	left: -85px;
+    }
+    
+    .mak-slider {
+	border: 10px solid #fff;
+    }
+    
+    .feed-text h5 {
+	font-size: 12px;
+    }
+    
+    .feed-text {
+	padding-left: 5px;
+    }
+    
+    .feedback-item p {
+	padding: 10px 10px;
+	font-size: 12px;
+	text-align: center;
+    }
+    
+    #footer {
+	padding-top: 70px;
+    }
+        
+}
+
+
+
+
+@media (max-width: 575.98px) {
+    .navbar-toggler i{
+        color: #a06a7d;
+    }
+
+    .navbar-toggler {
+        background-color: none;
+        border: none;
+    }
+
+    button:focus {
+        outline: none;
+    }
+
+    .navbar .navbar-nav .nav-link {
+        text-align: center;
+        background: #e6c4c4;
+    }
+
+    .mk a {
+        padding: 6px 7px;
+        font-size: 14px;
+        text-align: center;
+    }
+      
+   .mk {
+	margin-top: 0;
+	background: #e6c4c4;
+	text-align: center;
+    }
+    
+    .banner-text h3 {
+	font-size: 40px;
+    }
+    
+    .banner-text h1 {
+	font-size: 50px;
+    }
+    
+    .banner-text p {
+	padding-bottom: 30px;
+    }
+    
+    #history {
+	padding-top: 40px;
+    }
+    
+    .history-text {
+	padding-left: 0;
+    }
+    
+    .gift-img img {
+	display: none;
+    }
+    
+    .secound-gift a {
+	padding: 8px 8px;
+	font-size: 14px;
+    }
+    
+    .gift-pra {
+	padding-bottom: 15px;
+    }
+    
+    #gift {
+	padding-top: 30px;
+    }
+    
+    #tickets {
+	padding-top: 50px;
+	padding-bottom: 40px;
+    }
+    
+    .tickets-text a {
+	padding: 8px 10px;
+	font-size: 14px;
+    }
+    
+    .tickets-text h2 {
+	text-align: center;
+    }
+    
+    .tickets-text h3 {
+	text-align: center;
+    }
+    
+    .tickets-text p {
+    text-align: center;
+    }
+    
+    #shops .service-item p {
+	text-align: center;
+    padding-left: 0;
+    }
+    
+    #shops .service-item a {
+	padding: 4px 6px;
+	border: 1px solid #d50a51;
+	font-size: 14px;
+    }
+    
+    .service-item h3 {
+	padding-bottom: 20px;
+    }
+    
+    .shops-pic {
+	margin-top: 20px;
+    }
+    
+    #footer {
+	padding-top: 90px;
+    }
+    
+    .footer-text p {
+	font-size: 14px;
+    }
+    
+    .footer-text h4 {
+	font-size: 12px;
+    }
+    
+    .footer-loca i {
+	padding: 2px 2px;
+    }
+    
+    .footer-ico i {
+	padding: 8px 6px;
+    }
+    
+    #feedback {
+	padding-top: 50px;
+	padding-bottom: 40px;
+    }
+    
+    .newcastal{
+       display: none;
+    }
+    
+    .skd{
+    position: absolute;
+    top: -65px;
+    left: -60px;
+    }
+   
+    
+    .mak-slider {
+	border: 8px solid #ffff;
+    }
+    
+    .feedback-item p {
+	padding: 20px;
+	font-size: 14px;
+	line-height: 16px;
+    padding-left: 0;
+    }
+    
+    
+    
+}
+
